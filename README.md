@@ -146,7 +146,8 @@ The test environment has different textures and hole positions than that of the 
 
 ## Author
 
-- [Bilal Kabas](https://github.com/bilalkabas)
+- [Bilal Kabas](https://github.com/bilalkabas) in Python Sections
+- MHACO123 for MATLAB Reconfiguration
 
 ## License
 
